@@ -42,3 +42,9 @@ Le facteur humain peut aussi être important dans la mesure ou certaines personn
 Le facteur humain peut aussi avoir son important parce que le système d'information est accessible à l'humain pour que celui-ci puisse en exploiter les informations. Cependant, en tant qu'élément interagissant avec le système d'information, il peut lui même être la cible d'un tiers potentiellement malveillant qui par ses actions souhaiterait pousser l'utisateur du système d'information à commettre consciemment ou non certains actes. 
 
 A ce titre, il est important de citer les notions de "social engineering" qui consiste à mettre en place des technique de manipulation pour obtenir des informations confidentielles. Il est également possible de citer le "phising" qui est une pratique consistant à usurper l'identité d'une personne pour se faire passer pour cette dernière et ainsi compromettre le système d'information et accéder à des informations sensible. Par exemple, imiter la page de connexion au portail web du système d'information pour récupérer les identifiants d'un utilisateur de ce système d'information et pouvoir exploiter les données qu'il contient.
+
+### Qu'est-ce que le 2FA ? 
+
+Le terme 2FA signifie "Two factor authentification". Pour le mettre en place, il est nécessaire d'avoir au moins deux media d'authentification. Cela se traduit souvent par l'utilisation d'un couple d'authentification. Ainsi, l'utilisateur peut être amené à reseigner un mot de passe pour se connecter, puis à récupérer un code enoyé sur un autre média qui peut être un SMS, un email, une notification sur un appareil spécifique.
+
+Cela permet de s'assurer que la personne qui essaie de se connecter est bien le titulaire du compte avec lequel, elle essaie de se connecter à un service.
